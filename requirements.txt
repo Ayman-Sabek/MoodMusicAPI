@@ -7,3 +7,4 @@ scikit-learn==0.24.2
 imblearn==0.0
 python-dotenv==0.19.0
 joblib==1.0.1
+imbalanced-learn==0.8.0
